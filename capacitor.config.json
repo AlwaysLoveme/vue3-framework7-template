@@ -1,0 +1,16 @@
+{
+  "appId": "com.ionic.demotest",
+  "appName": "Framework7CapacitorTemplate",
+  "webDir": "dist",
+  "backgroundColor": "#FFFFFF",
+  "plugins": {
+    "Keyboard": {
+      "resize": "body"
+    },
+    "SplashScreen": {
+      "launchShowDuration": 3000,
+      "autoHide": false
+    }
+  },
+  "hideLogs": false
+}

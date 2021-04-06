@@ -1,0 +1,16 @@
+{
+	"appId": "com.ionic.demotest",
+	"appName": "My Capacitor App",
+	"webDir": "dist",
+	"backgroundColor": "#FFFFFF",
+	"plugins": {
+		"Keyboard": {
+			"resize": "body"
+		},
+		"SplashScreen": {
+			"launchShowDuration": 3000,
+			"autoHide": false
+		}
+	},
+	"hideLogs": false
+}
